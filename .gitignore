@@ -1,0 +1,10 @@
+/bin/
+/vendor/
+*.exe
+*.log
+.env
+/tmp/
+.idea/
+.vscode/
+*.swp
+.DS_Store
